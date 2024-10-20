@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /cfp/
-title: Call for papers
+permalink: /ijcai2024/cfp/
+title: AIGOV-24 Call for papers
 nav: true
-nav_order: 3
+nav_order: 7
 ---
 # Key Dates
 

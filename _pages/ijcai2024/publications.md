@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /accepted/
-title: Accepted papers
+permalink: /ijcai2024/accepted/
+title: AIGOV-24 Accepted papers
 years: [2024]
 nav: true
-nav_order: 2
+nav_order: 6
 ---
 <!-- _pages/publications.md -->
 

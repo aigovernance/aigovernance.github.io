@@ -1,11 +1,12 @@
 ---
 layout: home
-title: home
+title: AIGOV-24
 home_title: The 1st International Workshop on AI Governance (AIGOV)
 subtitle: Held in conjunction with IJCAI 2024 
-nav_title: Home
-permalink: /
+nav_title: home
+permalink: /ijcai2024/
 description: A workshop which aims to delve into the critical aspects of AI governance with a specific focus on the contribution of Large Language Models (LLMs) in shaping ethical and responsible AI practices.
+nav_order: 4
 ---
 <h5 style="text-align:center;"><a href="https://forms.gle/yP7sNyrrdd2BbfmP6">[Call for Reviewers]</a></h5>
 <h5 style="text-align:center;"><a href="https://aigovernance.github.io/cfp/">[Call for Papers]</a></h5>

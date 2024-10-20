@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /schedule/
-title: Schedule
+permalink: /ijcai2024/schedule/
+title: AIGOV-24 Schedule
 nav: true
-nav_order: 1
+nav_order: 5
 ---
 | **Time (local time)**{: .h5} | **Event**{: .h5}        | **Speaker**{: .h5} |
 | :--------------------------------- | :---------------------------- | :----------------------- |
