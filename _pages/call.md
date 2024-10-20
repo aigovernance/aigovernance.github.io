@@ -7,13 +7,13 @@ nav_order: 3
 ---
 # Key Dates
 
-* Submission deadline: **~~April 26th, 2024~~** **May 10th, 2024 (11:59 pm AOE, FINAL EXTENSION)**
-* Acceptance notification: **June 8th, 2024**
-* Camera ready for accepted submissions: **June 20th, 2024**
+* Submission deadline: **Nov 24th, 2024 (11:59 pm AOE)**
+* Acceptance notification: **Dec 9th, 2024**
+* Camera ready for accepted submissions: **TBA**
 
 # Topics
 
-We are excited to announce the ``AI governance'' workshop at the IJCAI 2024, a critical event addressing the principles, frameworks, and best practices necessary to navigate the ethical, legal, and societal dimensions of AI.
+We are excited to announce the ``AI governance'' workshop at the AAAI 2025, a critical event addressing the principles, frameworks, and best practices necessary to navigate the ethical, legal, and societal dimensions of AI.
 
 The rapid advancements in Artificial Intelligence (AI) bring unprecedented opportunities and challenges. As organizations and governments increasingly integrate AI technologies into various aspects of society, the need for effective AI governance becomes paramount. This workshop aims to provide a comprehensive understanding of AI governance principles, frameworks, and best practices to empower participants in navigating the ethical, legal, and societal dimensions of AI.
 
@@ -45,18 +45,18 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 
 We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee.
 
-The submission website is on **[OpenReview](https://openreview.net/group?id=ijcai.org/IJCAI/2024/Workshop/AIGOV)**. Camera-ready versions are due by **June 20, 2024**, and will be posted on the workshop website.
+The submission website is on **[OpenReview]()**. Camera-ready versions will be posted on the workshop website.
 
 # Camera-Ready and Proceeding Instructions
 
 To streamline the publication process, we have implemented a two-step approach for camera-ready publications.
 
-Firstly, all accepted papers are hosted on our website via OpenReview during the conference period. To ensure inclusion in this phase, please revise your papers based on the reviewers' comments, include your author affiliations, and adhere to the IJCAI format. The deadline for uploading this version to OpenReview is **June 20, 2024**.
+Firstly, all accepted papers are hosted on our website via OpenReview during the conference period. To ensure inclusion in this phase, please revise your papers based on the reviewers' comments, include your author affiliations, and adhere to the IJCAI format. The deadline for uploading this version to OpenReview is **TBA**.
 
 Secondly, we are publishing the accepted and invited papers in a post-conference proceeding. Please follow the instructions as in the email sent to you later.
 
-The deadline for the proceeding submission is **Oct 25, 2024**.
+The deadline for the proceeding submission is **TBA**.
 
 # Questions?
 
-Contact us at bl2681@columbia.edu.
+Contact us at blin@law.harvard.edu.
