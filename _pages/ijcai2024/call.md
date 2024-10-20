@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ijcai2024/cfp/
-title: AIGOV-24 Call for papers
+title: AIGOV-24 CFP
 nav: true
 nav_order: 7
 ---

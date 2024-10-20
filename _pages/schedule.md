@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /schedule/
-title: Schedule
+title: AIGOV-25 Schedule
 nav: true
 nav_order: 1
 ---

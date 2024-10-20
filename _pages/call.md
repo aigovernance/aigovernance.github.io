@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cfp/
-title: Call for papers
+title: AIGOV-25 CFP
 nav: true
 nav_order: 3
 ---

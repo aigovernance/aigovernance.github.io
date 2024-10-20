@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /accepted/
-title: Accepted papers
+title: AIGOV-25 Program
 years: [2025]
 nav: true
 nav_order: 2

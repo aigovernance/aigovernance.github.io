@@ -1,16 +1,14 @@
 ---
 layout: page
 permalink: /ijcai2024/accepted/
-title: AIGOV-24 Accepted papers
+title: AIGOV-24 Program
 years: [2024]
 nav: true
 nav_order: 6
 ---
 <!-- _pages/publications.md -->
 
-
 <div class="publications">
-
 
 {%- for y in page.years %}
 
