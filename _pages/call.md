@@ -45,7 +45,7 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 
 We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee.
 
-The submission website is on **[OpenReview](https://openreview.net/group?id=AAAI.org/AAAI/2025/Workshop/AIGOV)**. Camera-ready versions will be posted on the workshop website.
+The submission website is on **[OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/AIGOV)**. Camera-ready versions will be posted on the workshop website.
 
 # Camera-Ready and Proceeding Instructions
 
