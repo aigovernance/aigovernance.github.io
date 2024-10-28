@@ -47,6 +47,15 @@ This workshop will be a hybrid event held in conjunction with [AAAI 2025](https:
       <div class="col-sm-3 p-1">
           {% include people.html name="Kush R. Varshney" affiliation="IBM Research" url="https://research.ibm.com/people/kush-varshney" img="/assets/img/people/kush_varshney.jpg" %}
       </div>
+<div class="col-sm-3 p-1">
+          {% include people.html name="Desmond Patton" affiliation="U Penn" url="https://sp2.upenn.edu/person/desmond-upton-patton" img="/assets/img/people/desmond_patton.png" %}
+      </div>
+<div class="col-sm-3 p-1">
+          {% include people.html name="Laura Bingham" affiliation="Temple Law" url="https://law.temple.edu/contact/37342/" img="/assets/img/people/laura_bingham.jpg" %}
+      </div>
+<div class="col-sm-3 p-1">
+          {% include people.html name="Sara Migliorini" affiliation="Macau Law" url="https://fll.um.edu.mo/sara-migliorini/" img="/assets/img/people/sara_migliorini.jpg" %}
+      </div>
   </div>
   <br>
 
@@ -54,7 +63,7 @@ This workshop will be a hybrid event held in conjunction with [AAAI 2025](https:
 
 <div class="row p-2 g-2">
       <div class="col-sm-3 p-1">
-      {% include people.html name="Baihan Lin" affiliation="Harvard Law School, Mount Sinai" url="https://www.linlab.org/" img="/assets/img/people/baihan_lin.jpg" %}
+      {% include people.html name="Baihan Lin" affiliation="Harvard Law, Mount Sinai" url="https://www.linlab.org/" img="/assets/img/people/baihan_lin.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
         {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="hhttps://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
