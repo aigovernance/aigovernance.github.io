@@ -47,16 +47,16 @@ This workshop will be a hybrid event held in conjunction with [AAAI 2025](https:
       <div class="col-sm-3 p-1">
           {% include people.html name="Christopher S. Yoo" affiliation="Penn Law" url="https://www.law.upenn.edu/faculty/csyoo" img="/assets/img/people/christopher_yoo.png" %}
       </div>
-<div class="col-sm-3 p-1">
+      <div class="col-sm-3 p-1">
           {% include people.html name="Kush R. Varshney" affiliation="IBM Research" url="https://research.ibm.com/people/kush-varshney" img="/assets/img/people/kush_varshney.jpg" %}
       </div>
-      </div>
-<div class="col-sm-3 p-1">
+      <div class="col-sm-3 p-1">
           {% include people.html name="Laura Bingham" affiliation="Temple Law" url="https://law.temple.edu/contact/37342/" img="/assets/img/people/laura_bingham.jpg" %}
       </div>
-<div class="col-sm-3 p-1">
+      <div class="col-sm-3 p-1">
           {% include people.html name="Desmond Patton" affiliation="U Penn" url="https://sp2.upenn.edu/person/desmond-upton-patton" img="/assets/img/people/desmond_patton.png" %}
-<div class="col-sm-3 p-1">
+      </div>
+      <div class="col-sm-3 p-1">
           {% include people.html name="Sara Migliorini" affiliation="Macau Law" url="https://fll.um.edu.mo/sara-migliorini/" img="/assets/img/people/sara_migliorini.jpg" %}
       </div>
   </div>
