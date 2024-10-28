@@ -33,7 +33,7 @@ In addition to insightful technical discussions, we also plan to hold introducto
 
 We believe that incorporating knowledge can potentially solve many of the most pressing challenges tackling the AI and society today. The primary goal of this workshop is to facilitate community building, as AI governance is a critical field with two distinct communities: policymakers crafting regulations and researchers/developers working on the technologies. The workshop aims to bring these communities together to foster collaboration and enhance understanding. The workshop aims to educate a broader community about the intricacies of AI governance. Through informative sessions and discussions, participants will gain a deeper understanding of the challenges posed by AI technologies and the need for effective governance.
 
-This workshop will be a hybrid event held in conjunction with [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), taking place on **Feb 25th - Mar 4th, 2025** at Philadelphia, PA, USA. The session will cover invited talks, contributed talks, posters, and a panel discussion.
+This workshop will be a hybrid event held in conjunction with [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), taking place on **Mar 3rd, 2025** at Philadelphia, PA, USA. The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
 # Key Dates
 
@@ -45,14 +45,17 @@ This workshop will be a hybrid event held in conjunction with [AAAI 2025](https:
 
 <div class="row p-2 g-2">
       <div class="col-sm-3 p-1">
-          {% include people.html name="Kush R. Varshney" affiliation="IBM Research" url="https://research.ibm.com/people/kush-varshney" img="/assets/img/people/kush_varshney.jpg" %}
+          {% include people.html name="Christopher S. Yoo" affiliation="Penn Law" url="https://www.law.upenn.edu/faculty/csyoo" img="/assets/img/people/christopher_yoo.png" %}
       </div>
 <div class="col-sm-3 p-1">
-          {% include people.html name="Desmond Patton" affiliation="U Penn" url="https://sp2.upenn.edu/person/desmond-upton-patton" img="/assets/img/people/desmond_patton.png" %}
+          {% include people.html name="Kush R. Varshney" affiliation="IBM Research" url="https://research.ibm.com/people/kush-varshney" img="/assets/img/people/kush_varshney.jpg" %}
+      </div>
       </div>
 <div class="col-sm-3 p-1">
           {% include people.html name="Laura Bingham" affiliation="Temple Law" url="https://law.temple.edu/contact/37342/" img="/assets/img/people/laura_bingham.jpg" %}
       </div>
+<div class="col-sm-3 p-1">
+          {% include people.html name="Desmond Patton" affiliation="U Penn" url="https://sp2.upenn.edu/person/desmond-upton-patton" img="/assets/img/people/desmond_patton.png" %}
 <div class="col-sm-3 p-1">
           {% include people.html name="Sara Migliorini" affiliation="Macau Law" url="https://fll.um.edu.mo/sara-migliorini/" img="/assets/img/people/sara_migliorini.jpg" %}
       </div>
