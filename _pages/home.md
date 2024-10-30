@@ -48,6 +48,9 @@ This workshop will be a hybrid event held in conjunction with [AAAI 2025](https:
           {% include people.html name="Christopher S. Yoo" affiliation="Penn Law" url="https://www.law.upenn.edu/faculty/csyoo" img="/assets/img/people/christopher_yoo.png" %}
       </div>
       <div class="col-sm-3 p-1">
+          {% include people.html name="Rumman Chowdhury" affiliation="Parity Consulting, Harvard" url="http://www.rummanchowdhury.com/" img="/assets/img/people/rumman_chowdhury.png" %}
+      </div>
+      <div class="col-sm-3 p-1">
           {% include people.html name="Kush R. Varshney" affiliation="IBM Research" url="https://research.ibm.com/people/kush-varshney" img="/assets/img/people/kush_varshney.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
