@@ -7,8 +7,8 @@ nav_order: 3
 ---
 # Key Dates
 
-* Submission deadline: **Nov 24th, 2024 (11:59 pm AOE)**
-* Acceptance notification: **Dec 9th, 2024**
+* Submission deadline: **Nov 30th, 2024 (11:59 pm AOE)**
+* Acceptance notification: **Dec 30th, 2024**
 * Camera ready for accepted submissions: **TBA**
 
 # Topics
