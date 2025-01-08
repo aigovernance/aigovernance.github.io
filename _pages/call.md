@@ -9,7 +9,7 @@ nav_order: 3
 
 * Submission deadline: **Nov 30th, 2024 (11:59 pm AOE)**
 * Acceptance notification: **Dec 30th, 2024**
-* Camera ready for accepted submissions: **TBA**
+* Camera ready for accepted submissions: **Jan 20th, 2025**
 
 # Topics
 
@@ -51,7 +51,7 @@ The submission website is on **[OpenReview](https://openreview.net/group?id=AAAI
 
 To streamline the publication process, we have implemented a two-step approach for camera-ready publications.
 
-Firstly, all accepted papers are hosted on our website via OpenReview during the conference period. To ensure inclusion in this phase, please revise your papers based on the reviewers' comments, include your author affiliations, and adhere to the IJCAI format. The deadline for uploading this version to OpenReview is **TBA**.
+Firstly, all accepted papers are hosted on our website via OpenReview during the conference period. To ensure inclusion in this phase, please revise your papers based on the reviewers' comments, include your author affiliations, and adhere to the AAAI format. The deadline for uploading this version to OpenReview is **Jan 20th, 2025**.
 
 Secondly, we are publishing the accepted and invited papers in a post-conference proceeding. Please follow the instructions as in the email sent to you later.
 

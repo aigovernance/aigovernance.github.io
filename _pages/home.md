@@ -39,7 +39,7 @@ This workshop will be a hybrid event held in conjunction with [AAAI 2025](https:
 
 * Submission deadline: **Nov 30th, 2024 (11:59 pm AOE)**
 * Acceptance notification: **Dec 30th, 2024**
-* Camera ready for accepted submissions: **TBA**
+* Camera ready for accepted submissions: **Jan 20th, 2025**
 
 # Confirmed Keynote and Invited Speakers
 
