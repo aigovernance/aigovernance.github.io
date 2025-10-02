@@ -1,11 +1,11 @@
 ---
 layout: home
 title: home
-home_title: The 3rd International Workshop on AI Governance (AIGOV)
+home_title: The 3rd International AI Governance Workshop (AIGOV)
 subtitle: Held in conjunction with AAAI 2026 
 nav_title: AIGOV-26
 permalink: /
-description: A workshop which aims to delve into the critical aspects of AI governance with a specific focus on the contribution of Large Language Models (LLMs) in shaping ethical and responsible AI practices.
+description: A workshop which aims to delve into the critical aspects of AI governance with a specific focus on the impacts of agentic and generative AI systems (e.g. LLMs) in shaping ethical and responsible practices.
 ---
 <!-- <h5 style="text-align:center;"><a href="https://forms.gle/yP7sNyrrdd2BbfmP6">[Call for Reviewers]</a></h5>
 <h5 style="text-align:center;"><a href="https://aigovernance.github.io/cfp/">[Call for Papers]</a></h5>
@@ -13,7 +13,7 @@ description: A workshop which aims to delve into the critical aspects of AI gove
 
 # Introduction
 
-We are excited to announce the 3rd International Workshop on "AI Governance Workshop: Alignment, Morality, Law, and Design" (AIGOV) at the AAAI 2026, a critical event addressing the critical intersection of artificial intelligence (AI) governance, ethical alignment, and responsible deployment across autonomous systems. As AI technologies rapidly advance from generative models to sophisticated agentic systems capable of autonomous decision-making, new governance challenges emerge that existing frameworks cannot adequately address. This workshop brings together researchers, industry practitioners, and policy experts to develop actionable frameworks for safe, aligned, and accountable AI systems. Our unique focus combines technical governance mechanisms with policy integration, emphasizing "Governance by Design" approaches that embed responsibility directly into AI architectures rather than applying governance as external oversight.
+We are excited to announce the 3rd International Workshop on "**AI Governance Workshop: Alignment, Morality, Law, and Design**" (AIGOV) at the AAAI 2026, a critical event addressing the critical intersection of artificial intelligence (AI) governance, ethical alignment, and responsible deployment across autonomous systems. As AI technologies rapidly advance from generative models to sophisticated agentic systems capable of autonomous decision-making, new governance challenges emerge that existing frameworks cannot adequately address. This workshop brings together researchers, industry practitioners, and policy experts to develop actionable frameworks for safe, aligned, and accountable AI systems. Our unique focus combines technical governance mechanisms with policy integration, emphasizing "Governance by Design" approaches that embed responsibility directly into AI architectures rather than applying governance as external oversight.
 
 **Format**: This workshop will be a hybrid event held in conjunction with [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), taking place on **January 26th, 2026** in Singapore. This full-day workshop combines keynote presentations, technical sessions, industry panels, and interactive discussions to provide a comprehensive overview of the topic. The format includes: opening keynote on governance principles, technical sessions on AI alignment and safety, industry panels sharing deployment experiences, lightning talks on technical solutions, poster sessions during breaks, interactive framework development, and collaborative roadmap development discussions. The workshop emphasizes practical outcomes through hands-on sessions and multi-stakeholder discussions that bridge the research, industry, and policy communities.
 
@@ -39,37 +39,12 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 
 **Submission Site Information**: Please submit your work via **[OpenReview](https://openreview.net/group?id=AAAI.org/2026/Workshop/AIGOV)**.
 
-**Contact**: himanshujoshi@utexas.edu
-
 # Key Dates
 
 * Submission deadline: **October 22, 2025 (12:00 AM UTC)**
 * Acceptance notification: **TBA**
 * Camera ready for accepted submissions: **TBA**
 
-<!-- # Confirmed Keynote and Invited Speakers
-
-<div class="row p-2 g-2">
-      <div class="col-sm-3 p-1">
-          {% include people.html name="Christopher S. Yoo" affiliation="Penn Law" url="https://www.law.upenn.edu/faculty/csyoo" img="/assets/img/people/christopher_yoo.png" %}
-      </div>
-      <div class="col-sm-3 p-1">
-          {% include people.html name="Rumman Chowdhury" affiliation="Parity Consulting, Harvard" url="http://www.rummanchowdhury.com/" img="/assets/img/people/rumman_chowdhury.png" %}
-      </div>
-      <div class="col-sm-3 p-1">
-          {% include people.html name="Kush R. Varshney" affiliation="IBM Research" url="https://research.ibm.com/people/kush-varshney" img="/assets/img/people/kush_varshney.jpg" %}
-      </div>
-      <div class="col-sm-3 p-1">
-          {% include people.html name="Laura Bingham" affiliation="Temple Law" url="https://law.temple.edu/contact/37342/" img="/assets/img/people/laura_bingham.jpg" %}
-      </div>
-      <div class="col-sm-3 p-1">
-          {% include people.html name="Desmond Patton" affiliation="U Penn" url="https://sp2.upenn.edu/person/desmond-upton-patton" img="/assets/img/people/desmond_patton.png" %}
-      </div>
-      <div class="col-sm-3 p-1">
-          {% include people.html name="Sara Migliorini" affiliation="Macau Law" url="https://fll.um.edu.mo/sara-migliorini/" img="/assets/img/people/sara_migliorini.jpg" %}
-      </div>
-  </div>
-  <br> -->
 
 # Organizing Committee
 
@@ -117,7 +92,7 @@ Tianhao Li, Ruixiang Qi, Tianliang Yao, Zecheng Zhang, Rahul Jain, Jiacheng Lu, 
 
 # Contact
 
-For any questions, please contact us at himanshujoshi@utexas.edu.
+For any questions, please contact us at **himanshujoshi@utexas.edu**.
 
 
 # Program
@@ -128,13 +103,6 @@ For any questions, please contact us at himanshujoshi@utexas.edu.
 {% endfor %}
 </div>
 
-# Program
-
-<div class="publications">
-{%- for y in page.years %}
-  {% bibliography -f papers -q @*[year=2026]* %}
-{% endfor %}
-</div>
 
 <!-- # Sponsors
 
