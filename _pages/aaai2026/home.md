@@ -37,7 +37,7 @@ We invite submissions addressing AI governance challenges, including:
 
 All accepted papers and extended abstracts will be presented as posters. The program committee will select a few papers for oral presentation. There will be a poster session during the scheduled coffee breaks to facilitate and spark discussions amongst attendees. We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee. 
 
-**Submission Site Information**: Submissions via **[OpenReview](https://openreview.net/group?id=AAAI.org/2026/Workshop/AIGOV)**
+**Submission Site Information**: Please submit your work via **[OpenReview](https://openreview.net/group?id=AAAI.org/2026/Workshop/AIGOV)**.
 
 **Contact**: himanshujoshi@utexas.edu
 
@@ -75,31 +75,31 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 
 <div class="row p-2 g-2">
       <div class="col-sm-3 p-1">
-      {% include people.html name="Baihan Lin" affiliation="Harvard" url="https://www.linlab.org/" img="/assets/img/people/baihan_lin.jpg" %}
+      {% include people.html name="Baihan Lin" affiliation="Harvard" url="https://www.linlab.org/" img="/assets/img/people/baihan_lin2.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
-        {% include people.html name="Dhari Gandhi" affiliation="Vector Institute" url="" img="/assets/img/people/xxx.png" %}
+        {% include people.html name="Dhari Gandhi" affiliation="Vector Institute" url="https://www.linkedin.com/in/dhari-gandhi/" img="/assets/img/people/dhari_gandhi.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
-        {% include people.html name="Franziska Boenisch" affiliation="CISPA Helmholtz Center" url="xxx" img="/assets/img/people/xxx.png" %}
+        {% include people.html name="Franziska Boenisch" affiliation="CISPA Helmholtz Center" url="https://franziska-boenisch.de/" img="/assets/img/people/franziska_boenisch.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
         {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="https://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
       </div>
       <div class="col-sm-3 p-1">
-      {% include people.html name="Himanshu Joshi" affiliation="UT Austin" url="XXX" img="/assets/img/people/xxx.jpg" %}
+      {% include people.html name="Himanshu Joshi" affiliation="UT Austin" url="https://www.linkedin.com/in/himanshujoshimitsloan/" img="/assets/img/people/himanshu_joshi.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
-        {% include people.html name="Sara Migliorini" affiliation="University of Macau" url="xxx" img="/assets/img/people/xxx.jpg" %}
+        {% include people.html name="Sara Migliorini" affiliation="University of Macau" url="https://fll.um.edu.mo/sara-migliorini/" img="/assets/img/people/sara_migliorini.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
         {% include people.html name="Lauri Goldkind" affiliation="Fordham University" url="https://www.fordham.edu/graduate-school-of-social-service/faculty/full-time-faculty-profiles/lauri-goldkind/" img="assets/img/people/lauri_goldkind.png" %}
       </div>
       <div class="col-sm-3 p-1">
-        {% include people.html name="Sedef Akinli Kocak" affiliation="Vector Institute" url="xxx" img="assets/img/people/xxx.jpg" %}
+        {% include people.html name="Sedef Akinli Kocak" affiliation="Vector Institute" url="https://www.linkedin.com/in/sedefakocak/" img="assets/img/people/sedef_akinli_kocak.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
-        {% include people.html name="Shaina Raza" affiliation="Vector Institute" url="xxx" img="assets/img/people/xxx.jpg" %}
+        {% include people.html name="Shaina Raza" affiliation="Vector Institute" url="https://www.linkedin.com/in/shainaraza/" img="assets/img/people/shaina_raza.jpg" %}
       </div>
 </div>
   <br>
