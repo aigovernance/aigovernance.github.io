@@ -1,11 +1,12 @@
 ---
 layout: home
-title: home
+title: AIGOV-26
 home_title: The 3rd International AI Governance Workshop (AIGOV)
 subtitle: Held in conjunction with AAAI 2026 
 nav_title: AIGOV-26
 permalink: /
 description: A workshop which aims to delve into the critical aspects of AI governance with a specific focus on the impacts of agentic and generative AI systems (e.g. LLMs) in shaping ethical and responsible practices.
+nav_order: 1
 ---
 <!-- <h5 style="text-align:center;"><a href="https://forms.gle/yP7sNyrrdd2BbfmP6">[Call for Reviewers]</a></h5>
 <h5 style="text-align:center;"><a href="https://aigovernance.github.io/cfp/">[Call for Papers]</a></h5>
