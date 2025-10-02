@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /accepted/
+permalink: /aaai2025/accepted/
 title: AIGOV-25 Program
 years: [2025]
 nav: false

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /schedule/
+permalink: /aaai2025/schedule/
 title: AIGOV-25 Schedule
 nav: false
 nav_order: 1
