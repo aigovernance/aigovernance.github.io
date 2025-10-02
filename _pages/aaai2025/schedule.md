@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: AIGOV-25 Schedule
-nav: true
+nav: false
 nav_order: 1
 ---
 | **Time (local time)**{: .h5} | **Event**{: .h5}        | **Speaker**{: .h5}                                                                                  |

@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /cfp/
+permalink: /aaai2025/cfp/
 title: AIGOV-25 CFP
-nav: true
+nav: false
 nav_order: 3
 ---
 # Key Dates

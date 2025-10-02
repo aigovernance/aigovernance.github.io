@@ -3,7 +3,7 @@ layout: page
 permalink: /accepted/
 title: AIGOV-25 Program
 years: [2025]
-nav: true
+nav: false
 nav_order: 2
 ---
 <!-- _pages/publications.md -->

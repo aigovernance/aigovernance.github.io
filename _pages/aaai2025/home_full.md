@@ -1,20 +1,21 @@
 ---
 layout: home
-title: AIGOV-24
-home_title: The 1st International Workshop on AI Governance (AIGOV)
-subtitle: Held in conjunction with IJCAI 2024 
-nav_title: home
-nav: true
-permalink: /ijcai2024/
+title: home
+home_title: The 2nd International Workshop on AI Governance (AIGOV)
+subtitle: Held in conjunction with AAAI 2025 
+nav_title: AIGOV-25
+permalink: /aaai2025/
 description: A workshop which aims to delve into the critical aspects of AI governance with a specific focus on the contribution of Large Language Models (LLMs) in shaping ethical and responsible AI practices.
-nav_order: 3
+nav_order: 2
 ---
+
 <h5 style="text-align:center;"><a href="https://forms.gle/yP7sNyrrdd2BbfmP6">[Call for Reviewers]</a></h5>
 <h5 style="text-align:center;"><a href="https://aigovernance.github.io/cfp/">[Call for Papers]</a></h5>
+<h5 style="text-align:center;"><a href="https://aigovernance.github.io/ijcai2024/">[Last Event: AIGOV @ IJCAI 2024]</a></h5>
 
 # Introduction
 
-We are excited to announce the 1st International Workshop on "AI Governance: Alignment, Morality and Law" (AIGOV) at the IJCAI 2024, a critical event addressing the principles, frameworks, and best practices necessary to navigate the ethical, legal, and societal dimensions of AI.
+We are excited to announce the 2nd International Workshop on "AI Governance: Alignment, Morality and Law" (AIGOV) at the AAAI 2025, a critical event addressing the principles, frameworks, and best practices necessary to navigate the ethical, legal, and societal dimensions of AI.
 
 The rapid advancements in Artificial Intelligence (AI) bring unprecedented opportunities and challenges. As organizations and governments increasingly integrate AI technologies into various aspects of society, the need for effective AI governance becomes paramount. This workshop aims to provide a comprehensive understanding of AI governance principles, frameworks, and best practices to empower participants in navigating the ethical, legal, and societal dimensions of AI.
 
@@ -34,34 +35,34 @@ In addition to insightful technical discussions, we also plan to hold introducto
 
 We believe that incorporating knowledge can potentially solve many of the most pressing challenges tackling the AI and society today. The primary goal of this workshop is to facilitate community building, as AI governance is a critical field with two distinct communities: policymakers crafting regulations and researchers/developers working on the technologies. The workshop aims to bring these communities together to foster collaboration and enhance understanding. The workshop aims to educate a broader community about the intricacies of AI governance. Through informative sessions and discussions, participants will gain a deeper understanding of the challenges posed by AI technologies and the need for effective governance.
 
-This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https://ijcai24.org/), taking place on **Aug 4th, 2024** at Jeju, South Korea. The session will cover invited talks, contributed talks, posters, and a panel discussion.
+This workshop will be a hybrid event held in conjunction with [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), taking place on **Mar 3rd, 2025** at Philadelphia, PA, USA. The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
 # Key Dates
 
-* Submission deadline: **~~April 26th, 2024~~** **May 10th, 2024 (11:59 pm AOE, FINAL EXTENSION)**
-* Acceptance notification: **June 8th, 2024**
-* Camera ready for accepted submissions: **June 20th, 2024**
+* Submission deadline: **Nov 30th, 2024 (11:59 pm AOE)**
+* Acceptance notification: **Dec 30th, 2024**
+* Camera ready for accepted submissions: **Jan 20th, 2025**
 
 # Confirmed Keynote and Invited Speakers
 
 <div class="row p-2 g-2">
       <div class="col-sm-3 p-1">
-          {% include people.html name="Francesca Rossi" affiliation="IBM Research" url="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2" img="/assets/img/people/francesca_rossi.jpg" %}
+          {% include people.html name="Christopher S. Yoo" affiliation="Penn Law" url="https://www.law.upenn.edu/faculty/csyoo" img="/assets/img/people/christopher_yoo.png" %}
       </div>
       <div class="col-sm-3 p-1">
-          {% include people.html name="Kartik Talamadupula" affiliation="Symbl.ai" url="http://www.ktalamad.com/" img="/assets/img/people/kartik_talamadupula.jpg" %}
+          {% include people.html name="Rumman Chowdhury" affiliation="Parity Consulting, Harvard" url="http://www.rummanchowdhury.com/" img="/assets/img/people/rumman_chowdhury.png" %}
       </div>
       <div class="col-sm-3 p-1">
-        {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="hhttps://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
+          {% include people.html name="Kush R. Varshney" affiliation="IBM Research" url="https://research.ibm.com/people/kush-varshney" img="/assets/img/people/kush_varshney.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
-        {% include people.html name="Moon Choi" affiliation="KAIST" url="https://stp.kaist.ac.kr/FacultyFull_time_Professor/view/id/18" img="/assets/img/people/moon_choi.jpg" %}
+          {% include people.html name="Laura Bingham" affiliation="Temple Law" url="https://law.temple.edu/contact/37342/" img="/assets/img/people/laura_bingham.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
-        {% include people.html name="Asim Munawar" affiliation="IBM Research" url="https://research.ibm.com/people/asim-munawar" img="/assets/img/people/asim_munawar.jpg" %}
+          {% include people.html name="Desmond Patton" affiliation="U Penn" url="https://sp2.upenn.edu/person/desmond-upton-patton" img="/assets/img/people/desmond_patton.png" %}
       </div>
       <div class="col-sm-3 p-1">
-        {% include people.html name="Andrew Clark" affiliation="Monitaur" url="https://www.monitaur.ai/company" img="/assets/img/people/andrew_clark.jpg" %}
+          {% include people.html name="Sara Migliorini" affiliation="Macau Law" url="https://fll.um.edu.mo/sara-migliorini/" img="/assets/img/people/sara_migliorini.jpg" %}
       </div>
   </div>
   <br>
@@ -70,7 +71,7 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
 
 <div class="row p-2 g-2">
       <div class="col-sm-3 p-1">
-      {% include people.html name="Baihan Lin" affiliation="Columbia University, Mount Sinai" url="https://www.neuroinference.com/" img="/assets/img/people/baihan_lin.jpg" %}
+      {% include people.html name="Baihan Lin" affiliation="Harvard Law, Mount Sinai" url="https://www.linlab.org/" img="/assets/img/people/baihan_lin.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
         {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="hhttps://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
@@ -89,20 +90,21 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
 
 # Schedule
 
-| **Time (local time)**{: .h5} | **Event**{: .h5}        | **Speaker**{: .h5} |
-| :--------------------------------- | :---------------------------- | :----------------------- |
-| 9-9:05                             | Introduction                  |                          |
-| 9:05-9:50                          | Invited Talk (40 + 5 QA)      | Dr. Djallel Bouneffouf   |
-| 9:50-10:35                         | Invited Talk (40 + 5 QA)      | Dr. Moon Choi            |
-| 10:35-11:00                        | Poster Setup + Coffee Break   |                          |
-| 11:00-12:30                        | Lightning Talks (5 + 3 QA)    | Accepted Authors         |
-| 12:30-14:00                        | Lunch Break                   |                          |
-| 14:00-14:45                        | Invited Talk (40 + 5 QA)      | Dr. Asim Munawar         |
-| 14:45-15:30                        | Invited Talk (40 + 5 QA)      | Dr. Francesca Rossi      |
-| 15:30-16:00                        | Poster Session + Coffee Break |                          |
-| 16:00-16:45                        | Invited Talk (40 + 5 QA)     | Dr. Kartik Talamadupula  |
-| 16:45-17:30                        | Invited Talk (40 + 5 QA)     | Dr. Andrew Clark         |
-| 17:30-17:35                        | Closing                       |                          |
+| **Time (local time)**{: .h5} | **Event**{: .h5}        | **Speaker**{: .h5}                                                                                  |
+| :--------------------------------- | :---------------------------- | :-------------------------------------------------------------------------------------------------------- |
+| 9-9:10                             | Introduction                  | Djallel Bouneffouf                                                                                        |
+| 9:10-9:50                          | Invited Talk (30 + 10 QA)    | Christopher Yoo                                                                                           |
+| 9:50-10:30                         | Invited Talk (30 + 10 QA)     | Kush Varshney                                                                                             |
+| 10:30-11:00                        | Poster Setup + Coffee Break   | Accepted Authors                                                                                          |
+| 11:00-12:00                        | Roundtable Discussions        | Invited Speakers and Guest Panelists                                                                      |
+| 12:00-13:00                        | Lunch Break                   |                                                                                                           |
+| 13:00-14:00                        | Oral Talks (10 + 5 QA each)   | Accepted Authors for Oral Talks (Sequence: 1. Daly et al.; 2. Varshney et al.; 3. Pokhriyal; 4. Nemala)) |
+| 14:10-14:50                        | Invited Talk (30 + 10 QA)     | Desmond Patton                                                                                            |
+| 14:50-15:30                        | Invited Talk (30 + 10 QA)     | Rumman Chowdhury                                                                                          |
+| 15:30-16:00                        | Poster Session + Coffee Break | Accepted Authors                                                                                          |
+| 16:00-16:40                        | Invited Talk (30 + 10 QA)     | Sara Migliorini                                                                                           |
+| 16:40-17:20                        | Invited Talk (30 + 10 QA)     | Laura Bingham                                                                                             |
+| 17:20-17:30                        | Closing                       |                                                                                                           |
 
 # Accepted Papers
 
@@ -112,11 +114,10 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
 
 <!--h2 class="year">{{y}}</h2-->
 
-  {% bibliography -f papers -q @*[year=2024]* %}
+  {% bibliography -f papers -q @*[year=2025]* %}
 {% endfor %}
 
 </div>
-
 
 # Call for Submissions
 
@@ -130,29 +131,29 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 
 We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee.
 
-The submission website is on **[OpenReview](https://openreview.net/group?id=ijcai.org/IJCAI/2024/Workshop/AIGOV)**. Camera-ready versions are due by **June 20, 2024**, and will be posted on the workshop website.
+The submission website is on **[OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/AIGOV)**. Camera-ready versions will be posted on the workshop website.
 
 **Camera-Ready and Proceeding Instructions**: To streamline the publication process, we have implemented a two-step approach for camera-ready publications.
 
-Firstly, all accepted papers are hosted on our website via OpenReview during the conference period. To ensure inclusion in this phase, please revise your papers based on the reviewers' comments, include your author affiliations, and adhere to the IJCAI format. The deadline for uploading this version to OpenReview is **June 20, 2024**.
+Firstly, all accepted papers are hosted on our website via OpenReview during the conference period. To ensure inclusion in this phase, please revise your papers based on the reviewers' comments, include your author affiliations, and adhere to the AAAI format. The deadline for uploading this version to OpenReview is **Jan 20th, 2025**.
 
 Secondly, we are publishing the accepted and invited papers in a post-conference proceeding. Please follow the instructions as in the email sent to you later.
 
-The deadline for the proceeding submission is **Oct 25, 2024**.
+The deadline for the proceeding submission is **TBA**.
 
 # Technical Program Committee (TPC)
 
 We would like to express our sincere gratitude to our technical program committee for generously volunteering their time and expertise to review submissions for our workshop. Their valuable contributions have been instrumental in ensuring the quality and rigor of the workshop's program. We deeply appreciate their dedication and commitment to our workshop's success:
 
-Sonali Son, Yohan Mathew, Arian Khorasani, Ashraf Abdul, Serge Stinckwich, Giandomenico Cornacchia, Jawad Haqbeen, Chi Xie, Xiaoxia Lei, Lisa Lehmann, Prithviraj (Raj) Dasgupta, Sray Agarwal, Moncef Garouani, Chemlal Yman, Imran Nasim, Fakhare Alam, Adnan Zaidi, Zahid Farid, Pengwei Li, Manish Nagireddy, Jesus Rios Aliaga, Miao Liu, Muneeza Azmat, Kinjal Basu, Nudrat Nida, Inas Bachiri, Sarathkrishna Swaminathan
+Tianhao Li, Ruixiang Qi, Tianliang Yao, Zecheng Zhang, Rahul Jain, Jiacheng Lu, Saai Krishnan Udayakumar, Rishit Dholakia, Haocheng Bi, Botao Zhang, Hejun Huang, Ahmed Olabisi Olajide, Mahak Shah, Chandrashekar Konda, Zhun Zhou, Zhengyu Fang, Gaurav Mishra, Rohan Kulkarni, Prithviraj Dasgupta, Imran Nasim, Akshata Kishore Moharir, Harsh NILESH PATHAK, Zhoujie Ding, Deepak Jayabalan, Utsha Saha, Aashish Sheshadri, Yuan Tian, YI HAN, Zonghao Ying, Ziyi Wang, Jahnavi Anilkumar Kachhia, Matin Khajavi, Haohang Li, Yuanjian Xu, Akaash Vishal Hazarika, Benedikt Schesch, Yue Li, Jiajing Chen, Bum Jun Kim, Junlin Guo, Qinfeng Zhu, Ramya Sree Boppana, KE WANG, Martin Meinke, Zijian Zhang, Ye Zhang, Amit Agarwal, Moncef GAROUANI, Songlin Jiang, Madiha Shakil Mirza, Abuh Ibrahim Sani, Sai Prasanna Teja Reddy Bogireddy, Pallavi Gudipati, Xiaoxia Lei, Sai Tarun Kaniganti, Victoria Abosede Ogunsanya, Shashikanta Sahoo, Maryam Taeb, Jue Xiao, Prudhvi Nethi, Rianat Abbas, Madhulekha Arunmozhi, Bala Siva Sai Akhil Malepati, Hengyang Zhou, Kshitij Chandna, Kai Xi, Ojas Gupta, Yidi Xu, Zong Ke, Vishal Shah, Chloe Zhu, Mukesh Yadav, GUANGYAN GAN, Yu Ma, Karanbir Singh, Feng Chen, Qi Song, Zhao Xu, Junlong Aaron Zhou, Chandrasekar Ramachandran, Venkat Nilesh Dadi, Linjun He, Ruchi Sharma, Botao Zhang, Bharath Mummadisetty, Reza Zakerian, Xihao Xie, Zerui Wang
 
 # Contact
 
-For any questions, please contact us at bl2681@columbia.edu.
+For any questions, please contact us at blin@law.harvard.edu.
 
 # Sponsors
 
-* Columbia University
+* Harvard Law School
 * Icahn School of Medicine at Mount Sinai
 * IBM Research
 * Mila - Quebec AI Institute
