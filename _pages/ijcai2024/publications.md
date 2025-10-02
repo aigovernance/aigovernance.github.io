@@ -3,7 +3,7 @@ layout: page
 permalink: /ijcai2024/accepted/
 title: AIGOV-24 Program
 years: [2024]
-nav: true
+nav: false
 nav_order: 6
 ---
 <!-- _pages/publications.md -->

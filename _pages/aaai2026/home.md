@@ -79,6 +79,29 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 </div>
   <br>
 
+
+# Schedule (Tentative)
+
+| **Time (local time)**{: .h5} | **Event**{: .h5}        | **Speaker**{: .h5} |
+| :--------------------------------- | :---------------------------- | :----------------------- |
+| 9-10:30                             | Keynote Address followed by Panel Discussion and Paper Presentation Session                  |                          |
+| 10:30-11:00                        | Poster Session + Coffee BreakBreak   |                          |
+| 11:00-12:30                        | Paper Presentations   | Accepted Authors         |
+| 12:30-14:00                        | Poster Session + Lunch Break                   |                          |
+| 14:00-15:30                        | Roundtable Discussion       |     |
+| 15:30-16:00                        | Poster Session + Coffee Break |                          |
+| 16:00-17:00                        | Panel Discussion Session    |         |
+
+# Accepted Papers
+
+<div class="publications">
+{%- for y in page.years %}
+  {% bibliography -f papers -q @*[year=2026]* %}
+{% endfor %}
+</div>
+
+
+
 # Program Committee
 
 We would like to express our sincere gratitude to our technical program committee for generously volunteering their time and expertise to review submissions for our workshop. Their valuable contributions have been instrumental in ensuring the quality and rigor of the workshop's program. 
@@ -93,16 +116,6 @@ Tianhao Li, Ruixiang Qi, Tianliang Yao, Zecheng Zhang, Rahul Jain, Jiacheng Lu, 
 # Contact
 
 For any questions, please contact us at **himanshujoshi@utexas.edu**.
-
-
-# Program
-
-<div class="publications">
-{%- for y in page.years %}
-  {% bibliography -f papers -q @*[year=2026]* %}
-{% endfor %}
-</div>
-
 
 <!-- # Sponsors
 
