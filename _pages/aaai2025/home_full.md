@@ -4,6 +4,7 @@ title: home
 home_title: The 2nd International Workshop on AI Governance (AIGOV)
 subtitle: Held in conjunction with AAAI 2025 
 nav_title: AIGOV-25
+nav: true
 permalink: /aaai2025/
 description: A workshop which aims to delve into the critical aspects of AI governance with a specific focus on the contribution of Large Language Models (LLMs) in shaping ethical and responsible AI practices.
 nav_order: 2
