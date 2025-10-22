@@ -3,7 +3,7 @@ layout: page
 permalink: /ijcai2024/schedule/
 title: AIGOV-24 Schedule
 nav: false
-nav_order: 5
+nav_order: 10
 ---
 | **Time (local time)**{: .h5} | **Event**{: .h5}        | **Speaker**{: .h5} |
 | :--------------------------------- | :---------------------------- | :----------------------- |

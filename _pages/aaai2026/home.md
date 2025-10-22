@@ -43,8 +43,9 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 # Key Dates
 
 * Submission deadline: **October 22, 2025 (12:00 AM UTC)**
-* Acceptance notification: **TBA**
-* Camera ready for accepted submissions: **TBA**
+* Acceptance notification: **November 5th, 2025**
+* Camera ready for accepted submissions: **December 15th, 2025**
+* Workshop program: **January 26, 2025**
 
 
 # Organizing Committee
