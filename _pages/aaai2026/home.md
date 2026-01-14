@@ -1,7 +1,7 @@
 ---
 layout: home
 title: AIGOV-26
-years: [2025]
+years: [2026]
 home_title: The 3rd International AI Governance Workshop (AIGOV)
 subtitle: Held in conjunction with AAAI 2026 
 nav_title: AIGOV-26
