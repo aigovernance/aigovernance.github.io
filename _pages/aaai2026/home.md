@@ -48,39 +48,6 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 * Workshop program: **January 26, 2025**
 
 
-# Organizing Committee
-
-<div class="row p-2 g-2">
-      <div class="col-sm-3 p-1">
-      {% include people.html name="Baihan Lin" affiliation="Harvard" url="https://www.linlab.org/" img="/assets/img/people/baihan_lin2.jpg" %}
-      </div>
-      <div class="col-sm-3 p-1">
-        {% include people.html name="Dhari Gandhi" affiliation="Vector Institute" url="https://www.linkedin.com/in/dhari-gandhi/" img="/assets/img/people/dhari_gandhi.jpg" %}
-      </div>
-      <div class="col-sm-3 p-1">
-        {% include people.html name="Franziska Boenisch" affiliation="CISPA Helmholtz Center" url="https://franziska-boenisch.de/" img="/assets/img/people/franziska_boenisch.jpg" %}
-      </div>
-      <div class="col-sm-3 p-1">
-        {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="https://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
-      </div>
-      <div class="col-sm-3 p-1">
-      {% include people.html name="Himanshu Joshi" affiliation="UT Austin" url="https://www.linkedin.com/in/himanshujoshimitsloan/" img="/assets/img/people/himanshu_joshi.jpg" %}
-      </div>
-      <div class="col-sm-3 p-1">
-        {% include people.html name="Sara Migliorini" affiliation="University of Macau" url="https://fll.um.edu.mo/sara-migliorini/" img="/assets/img/people/sara_migliorini.jpg" %}
-      </div>
-      <div class="col-sm-3 p-1">
-        {% include people.html name="Lauri Goldkind" affiliation="Fordham University" url="https://www.fordham.edu/graduate-school-of-social-service/faculty/full-time-faculty-profiles/lauri-goldkind/" img="assets/img/people/lauri_goldkind.png" %}
-      </div>
-      <div class="col-sm-3 p-1">
-        {% include people.html name="Sedef Akinli Kocak" affiliation="Vector Institute" url="https://www.linkedin.com/in/sedefakocak/" img="assets/img/people/sedef_akinli_kocak.jpg" %}
-      </div>
-      <div class="col-sm-3 p-1">
-        {% include people.html name="Shaina Raza" affiliation="Vector Institute" url="https://www.linkedin.com/in/shainaraza/" img="assets/img/people/shaina_raza.jpg" %}
-      </div>
-</div>
-  <br>
-
 
 # Workshop Schedule
 
@@ -121,7 +88,65 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 {% endfor %}
 </div>
 
+# Confirmed Keynote and Invited Speakers
 
+<div class="row p-2 g-2">
+      <div class="col-sm-3 p-1">
+          {% include people.html name="Simon Chesterman" affiliation="NUS" url="https://law.nus.edu.sg/people/simon-chesterman/" img="/assets/img/people/simon_chesterman.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Dhari Gandhi" affiliation="Vector Institute" url="https://www.linkedin.com/in/dhari-gandhi/" img="/assets/img/people/dhari_gandhi.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Dmitrii Volkov" affiliation="Palisade Research" url="https://palisaderesearch.org/" img="/assets/img/people/dmitrii_volkov.jpg" %}
+      </div>
+        <div class="col-sm-3 p-1">
+        {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="https://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Adam Gleave" affiliation="FAR.AI" url="https://www.gleave.me/" img="/assets/img/people/adam_gleave.jpg" %}
+      </div>
+        <div class="col-sm-3 p-1">
+        {% include people.html name="Sara Migliorini" affiliation="University of Macau" url="https://fll.um.edu.mo/sara-migliorini/" img="/assets/img/people/sara_migliorini.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Miro Pluckebaum" affiliation="Oxford / GovAI" url="https://www.linkedin.com/in/miro-pluckebaum/?originalSubdomain=uk" img="/assets/img/people/miro_pluckebaum.jpg" %}
+      </div>
+  </div>
+  <br>
+
+# Organizing Committee
+
+<div class="row p-2 g-2">
+      <div class="col-sm-3 p-1">
+      {% include people.html name="Baihan Lin" affiliation="Harvard" url="https://www.linlab.org/" img="/assets/img/people/baihan_lin2.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Dhari Gandhi" affiliation="Vector Institute" url="https://www.linkedin.com/in/dhari-gandhi/" img="/assets/img/people/dhari_gandhi.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Franziska Boenisch" affiliation="CISPA Helmholtz Center" url="https://franziska-boenisch.de/" img="/assets/img/people/franziska_boenisch.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="https://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
+      </div>
+      <div class="col-sm-3 p-1">
+      {% include people.html name="Himanshu Joshi" affiliation="UT Austin" url="https://www.linkedin.com/in/himanshujoshimitsloan/" img="/assets/img/people/himanshu_joshi.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Sara Migliorini" affiliation="University of Macau" url="https://fll.um.edu.mo/sara-migliorini/" img="/assets/img/people/sara_migliorini.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Lauri Goldkind" affiliation="Fordham University" url="https://www.fordham.edu/graduate-school-of-social-service/faculty/full-time-faculty-profiles/lauri-goldkind/" img="assets/img/people/lauri_goldkind.png" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Sedef Akinli Kocak" affiliation="Vector Institute" url="https://www.linkedin.com/in/sedefakocak/" img="assets/img/people/sedef_akinli_kocak.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Shaina Raza" affiliation="Vector Institute" url="https://www.linkedin.com/in/shainaraza/" img="assets/img/people/shaina_raza.jpg" %}
+      </div>
+</div>
+  <br>
 
 # Program Committee
 
