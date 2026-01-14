@@ -56,7 +56,7 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 | :--------------------------- | :-------------------------------- | :----------------------------------------------------------------------------------------- |
 | 9:00–9:10                    | Opening                           | Himanshu Joshi                                                                             |
 | 9:10–9:25                    | Spotlight Talk 1                  | Dhari Gandhi (Vector Institute for AI)                                                     |
-| 9:25–9:40                    | Spotlight Talk 2                  | Dimitri (Palisade Research)                                                                |
+| 9:25–9:40                    | Spotlight Talk 2                  | Dmitrii Volkov (Palisade Research)                                                         |
 | 9:40–10:00                   | Spotlight Talk 3                  | Djallel Bouneffouf (IBM Research)                                                          |
 | 10:00–10:40                  | **Keynote Address**               | Prof. Simon Chesterman (NUS)                                                               |
 | 10:40–11:00                  | Poster Session I + Coffee Break   |                                                                                            |
