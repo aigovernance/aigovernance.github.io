@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /aaai2025/accepted/
+# permalink: /aaai2025/accepted/
 title: AIGOV-25 Program
 years: [2025]
 nav: false
-nav_order: 10
+# nav_order: 10
 ---
 <!-- _pages/publications.md -->
 

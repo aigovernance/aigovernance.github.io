@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /ijcai2024/accepted/
+# permalink: /ijcai2024/accepted/
 title: AIGOV-24 Program
 years: [2024]
 nav: false
-nav_order: 10
+# nav_order: 10
 ---
 <!-- _pages/publications.md -->
 
