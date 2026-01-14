@@ -1,6 +1,7 @@
 ---
 layout: home
 title: AIGOV-25
+years: [2025]
 home_title: The 2nd International Workshop on AI Governance (AIGOV)
 subtitle: Held in conjunction with AAAI 2025 
 nav_title: AIGOV-25
@@ -91,21 +92,21 @@ This workshop will be a hybrid event held in conjunction with [AAAI 2025](https:
 
 # Schedule
 
-| **Time (local time)**{: .h5} | **Event**{: .h5}        | **Speaker**{: .h5}                                                                                  |
-| :--------------------------------- | :---------------------------- | :-------------------------------------------------------------------------------------------------------- |
-| 9-9:10                             | Introduction                  | Djallel Bouneffouf                                                                                        |
-| 9:10-9:50                          | Invited Talk (30 + 10 QA)    | Christopher Yoo                                                                                           |
-| 9:50-10:30                         | Invited Talk (30 + 10 QA)     | Kush Varshney                                                                                             |
-| 10:30-11:00                        | Poster Setup + Coffee Break   | Accepted Authors                                                                                          |
-| 11:00-12:00                        | Roundtable Discussions        | Invited Speakers and Guest Panelists                                                                      |
-| 12:00-13:00                        | Lunch Break                   |                                                                                                           |
-| 13:00-14:00                        | Oral Talks (10 + 5 QA each)   | Accepted Authors for Oral Talks (Sequence: 1. Daly et al.; 2. Varshney et al.; 3. Pokhriyal; 4. Nemala)) |
-| 14:10-14:50                        | Invited Talk (30 + 10 QA)     | Desmond Patton                                                                                            |
-| 14:50-15:30                        | Invited Talk (30 + 10 QA)     | Rumman Chowdhury                                                                                          |
-| 15:30-16:00                        | Poster Session + Coffee Break | Accepted Authors                                                                                          |
-| 16:00-16:40                        | Invited Talk (30 + 10 QA)     | Sara Migliorini                                                                                           |
-| 16:40-17:20                        | Invited Talk (30 + 10 QA)     | Laura Bingham                                                                                             |
-| 17:20-17:30                        | Closing                       |                                                                                                           |
+| **Time (local time)**{: .h5} | **Event**{: .h5}              | **Speaker**{: .h5}                                                                                       |
+| :--------------------------- | :---------------------------- | :------------------------------------------------------------------------------------------------------- |
+| 9-9:10                       | Introduction                  | Djallel Bouneffouf                                                                                       |
+| 9:10-9:50                    | Invited Talk (30 + 10 QA)     | Christopher Yoo                                                                                          |
+| 9:50-10:30                   | Invited Talk (30 + 10 QA)     | Kush Varshney                                                                                            |
+| 10:30-11:00                  | Poster Setup + Coffee Break   | Accepted Authors                                                                                         |
+| 11:00-12:00                  | Roundtable Discussions        | Invited Speakers and Guest Panelists                                                                     |
+| 12:00-13:00                  | Lunch Break                   |                                                                                                          |
+| 13:00-14:00                  | Oral Talks (10 + 5 QA each)   | Accepted Authors for Oral Talks (Sequence: 1. Daly et al.; 2. Varshney et al.; 3. Pokhriyal; 4. Nemala)) |
+| 14:10-14:50                  | Invited Talk (30 + 10 QA)     | Desmond Patton                                                                                           |
+| 14:50-15:30                  | Invited Talk (30 + 10 QA)     | Rumman Chowdhury                                                                                         |
+| 15:30-16:00                  | Poster Session + Coffee Break | Accepted Authors                                                                                         |
+| 16:00-16:40                  | Invited Talk (30 + 10 QA)     | Sara Migliorini                                                                                          |
+| 16:40-17:20                  | Invited Talk (30 + 10 QA)     | Laura Bingham                                                                                            |
+| 17:20-17:30                  | Closing                       |                                                                                                          |
 
 # Accepted Papers
 

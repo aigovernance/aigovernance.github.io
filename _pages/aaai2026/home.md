@@ -1,6 +1,7 @@
 ---
 layout: home
 title: AIGOV-26
+years: [2025]
 home_title: The 3rd International AI Governance Workshop (AIGOV)
 subtitle: Held in conjunction with AAAI 2026 
 nav_title: AIGOV-26
@@ -84,7 +85,7 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 
 <div class="publications">
 {%- for y in page.years %}
-  {% bibliography -f papers -q @*[year=2026]* %}
+  {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 </div>
 
