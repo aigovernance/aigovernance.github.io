@@ -60,7 +60,7 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 | 9:40–10:00                   | Spotlight Talk 3                  | Djallel Bouneffouf (IBM Research)                                                          |
 | 10:00–10:40                  | **Keynote Address**               | Prof. Simon Chesterman (NUS)                                                               |
 | 10:40–11:00                  | Poster Session I + Coffee Break   |                                                                                            |
-| 11:00–11:45                  | Panel: *Governance in Action*     | Ati, Abhijeet, Prof. Simon Chesterman, Valarie (Moderator: Himanshu Joshi)                 |
+| 11:00–11:45                  | **Panel**: *Governance in Action* | Ati, Abhijeet, Prof. Simon Chesterman, Valarie (Moderator: Himanshu Joshi)                 |
 | 11:45–12:00                  | Oral Paper 5                      | *Red-Teaming Financial AI Agents: Stress-Testing Governance Protections*                   |
 | 12:00–12:15                  | Oral Paper 6                      | *State-Wise Constrained Policy Shaping: Runtime Behavior Steering for Safe RL*             |
 | 12:15–12:30                  | Oral Paper 7                      | *With Great Capabilities Come Great Responsibilities: Agentic Risk & Capability Framework* |
