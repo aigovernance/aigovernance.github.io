@@ -1,14 +1,16 @@
 ---
 layout: home
 title: AIGOV-25
+years: [2026]
 home_title: The 2nd International Workshop on AI Governance (AIGOV)
 subtitle: Held in conjunction with AAAI 2025 
-nav_title: home
-nav: false
-permalink: /aaai2025/home/
+nav_title: AIGOV-25
+nav: true
+permalink: /aaai2025/
 description: A workshop which aims to delve into the critical aspects of AI governance with a specific focus on the contribution of Large Language Models (LLMs) in shaping ethical and responsible AI practices.
-nav_order: 10
+nav_order: 2
 ---
+
 <h5 style="text-align:center;"><a href="https://forms.gle/yP7sNyrrdd2BbfmP6">[Call for Reviewers]</a></h5>
 <h5 style="text-align:center;"><a href="https://aigovernance.github.io/cfp/">[Call for Papers]</a></h5>
 <h5 style="text-align:center;"><a href="https://aigovernance.github.io/ijcai2024/">[Last Event: AIGOV @ IJCAI 2024]</a></h5>
@@ -87,6 +89,59 @@ This workshop will be a hybrid event held in conjunction with [AAAI 2025](https:
       </div>
 </div>
   <br>
+
+# Schedule
+
+| **Time (local time)**{: .h5} | **Event**{: .h5}              | **Speaker**{: .h5}                                                                                       |
+| :--------------------------- | :---------------------------- | :------------------------------------------------------------------------------------------------------- |
+| 9-9:10                       | Introduction                  | Djallel Bouneffouf                                                                                       |
+| 9:10-9:50                    | Invited Talk (30 + 10 QA)     | Christopher Yoo                                                                                          |
+| 9:50-10:30                   | Invited Talk (30 + 10 QA)     | Kush Varshney                                                                                            |
+| 10:30-11:00                  | Poster Setup + Coffee Break   | Accepted Authors                                                                                         |
+| 11:00-12:00                  | Roundtable Discussions        | Invited Speakers and Guest Panelists                                                                     |
+| 12:00-13:00                  | Lunch Break                   |                                                                                                          |
+| 13:00-14:00                  | Oral Talks (10 + 5 QA each)   | Accepted Authors for Oral Talks (Sequence: 1. Daly et al.; 2. Varshney et al.; 3. Pokhriyal; 4. Nemala)) |
+| 14:10-14:50                  | Invited Talk (30 + 10 QA)     | Desmond Patton                                                                                           |
+| 14:50-15:30                  | Invited Talk (30 + 10 QA)     | Rumman Chowdhury                                                                                         |
+| 15:30-16:00                  | Poster Session + Coffee Break | Accepted Authors                                                                                         |
+| 16:00-16:40                  | Invited Talk (30 + 10 QA)     | Sara Migliorini                                                                                          |
+| 16:40-17:20                  | Invited Talk (30 + 10 QA)     | Laura Bingham                                                                                            |
+| 17:20-17:30                  | Closing                       |                                                                                                          |
+
+# Accepted Papers
+
+<div class="publications">
+
+{%- for y in page.years %}
+
+<!--h2 class="year">{{y}}</h2-->
+
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
+
+# Call for Submissions
+
+Other than the above topics listed, we also welcome submissions from researchers working on related topics such as neural program synthesis, program induction, and concept learning.
+
+**Submission Instructions**: Submissions should be in the form of a 7-page papers (+2-page references) for proceeding articles or a 2-page abstract for posters/demonstrations, and should be formatted according to the conference’s guidelines (https://www.ijcai.org/authors_kit). Accepted papers will be presented at the workshop and included in a workshop proceeding, unless opted out by the authors.
+
+The review will be double-blind, so please keep your submission(s) anonymous. The accepted papers have the option to be archival (i.e. included in the proceeding) or non-archival (i.e. only hosted in the website). The archival papers should be sufficiently original and not published in another venue or journal. The non-archival papers can be relevant work presented or published in another venue or journal.
+
+All accepted papers and extended abstracts will be presented as posters. The program committee will select a few papers for oral presentation. There will be a poster session during the scheduled coffee breaks to facilitate and spark discussions amongst attendees.
+
+We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee.
+
+The submission website is on **[OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/AIGOV)**. Camera-ready versions will be posted on the workshop website.
+
+**Camera-Ready and Proceeding Instructions**: To streamline the publication process, we have implemented a two-step approach for camera-ready publications.
+
+Firstly, all accepted papers are hosted on our website via OpenReview during the conference period. To ensure inclusion in this phase, please revise your papers based on the reviewers' comments, include your author affiliations, and adhere to the AAAI format. The deadline for uploading this version to OpenReview is **Jan 20th, 2025**.
+
+Secondly, we are publishing the accepted and invited papers in a post-conference proceeding. Please follow the instructions as in the email sent to you later.
+
+The deadline for the proceeding submission is **TBA**.
 
 # Technical Program Committee (TPC)
 
