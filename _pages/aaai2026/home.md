@@ -82,17 +82,36 @@ All accepted papers and extended abstracts will be presented as posters. The pro
   <br>
 
 
-# Schedule (Tentative)
+# Workshop Schedule
 
-| **Time (local time)**{: .h5} | **Event**{: .h5}        | **Speaker**{: .h5} |
-| :--------------------------------- | :---------------------------- | :----------------------- |
-| 9-10:30                             | Keynote Address followed by Panel Discussion and Paper Presentation Session                  |                          |
-| 10:30-11:00                        | Poster Session + Coffee BreakBreak   |                          |
-| 11:00-12:30                        | Paper Presentations   | Accepted Authors         |
-| 12:30-14:00                        | Poster Session + Lunch Break                   |                          |
-| 14:00-15:30                        | Roundtable Discussion       |     |
-| 15:30-16:00                        | Poster Session + Coffee Break |                          |
-| 16:00-17:00                        | Panel Discussion Session    |         |
+| **Time (local time)**{: .h5} | **Event**{: .h5}                  | **Speaker**{: .h5}                                                                         |
+| :--------------------------- | :-------------------------------- | :----------------------------------------------------------------------------------------- |
+| 9:00–9:10                    | Opening                           | Himanshu Joshi                                                                             |
+| 9:10–9:25                    | Spotlight Talk 1                  | Dhari Gandhi (Vector Institute for AI)                                                     |
+| 9:25–9:40                    | Spotlight Talk 2                  | Dimitri (Palisade Research)                                                                |
+| 9:40–10:00                   | Spotlight Talk 3                  | Djallel Bouneffouf (IBM Research)                                                          |
+| 10:00–10:40                  | **Keynote Address**               | Prof. Simon Chesterman (NUS)                                                               |
+| 10:40–11:00                  | Poster Session I + Coffee Break   |                                                                                            |
+| 11:00–11:45                  | Panel: *Governance in Action*     | Ati, Abhijeet, Prof. Simon Chesterman, Valarie (Moderator: Himanshu Joshi)                 |
+| 11:45–12:00                  | Oral Paper 5                      | *Red-Teaming Financial AI Agents: Stress-Testing Governance Protections*                   |
+| 12:00–12:15                  | Oral Paper 6                      | *State-Wise Constrained Policy Shaping: Runtime Behavior Steering for Safe RL*             |
+| 12:15–12:30                  | Oral Paper 7                      | *With Great Capabilities Come Great Responsibilities: Agentic Risk & Capability Framework* |
+| 12:30–12:45                  | Oral Paper 1                      | *Human-Centered AI Alone Will Not Ensure a Path to Human Empowerment*                      |
+| 12:45–13:00                  | Oral Paper 2                      | *Executable Governance for AI: Translating Policies into Rules Using LLMs*                 |
+| 13:00–13:30                  | Poster Session II + Lunch Break   |                                                                                            |
+| 13:30–14:00                  | Spotlight Talk 4                  | Adam Gleave (CEO, FAR.AI)                                                                  |
+| 14:00–14:15                  | Oral Paper 8                      | *Emergent Persuasion: Will LLMs Persuade Without Being Prompted?*                          |
+| 14:15–14:30                  | Oral Paper 9                      | *Data Attribution in Large Language Models via Bidirectional Gradient Optimization*        |
+| 14:30–14:45                  | Oral Paper 10                     | *Frequency-Domain Model Fingerprinting for Image Autoregressive Models*                    |
+| 14:45–15:00                  | Oral Paper 11                     | *Dynamic Alignment for Collective Agency: Toward a Scalable Self-Improving Framework*      |
+| 15:00–15:20                  | Spotlight Talk 5                  | Prof. Sara Migliorini (University of Macau)                                                |
+| 15:20–15:40                  | Spotlight Talk 6                  | Miro Pluckebaum (Oxford Martin AI Governance Initiative)                                   |
+| 15:40–16:00                  | Poster Session III + Coffee Break |                                                                                            |
+| 16:00–16:45                  | Industry Roundtable & Panel       | Dr. Smrite, Parishrut Jassal, Archana, Samir (Moderator: Himanshu Joshi)                   |
+| 16:45–17:00                  | Oral Paper 3                      | *Public Security Threats from Low-Compute AI Models*                                       |
+| 17:00–17:15                  | Oral Paper 4                      | *Behind the Words: A Comprehensive Study of Bias Detection Methods in LLMs*                |
+| 17:15–17:20                  | Closing Address                   | Himanshu Joshi & Djallel Bouneffouf                                                        |
+
 
 # Accepted Papers
 
