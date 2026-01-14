@@ -1,7 +1,7 @@
 ---
 layout: home
 title: AIGOV-25
-years: [2026]
+years: [2025]
 home_title: The 2nd International Workshop on AI Governance (AIGOV)
 subtitle: Held in conjunction with AAAI 2025 
 nav_title: AIGOV-25
