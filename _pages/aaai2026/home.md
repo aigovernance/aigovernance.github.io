@@ -168,6 +168,8 @@ Tianhao Li, Ruixiang Qi, Tianliang Yao, Zecheng Zhang, Rahul Jain, Jiacheng Lu, 
 
 For any questions, please contact us at **himanshujoshi@utexas.edu**.
 
+  <br>
+
 <!-- # Sponsors
 
 * Harvard Law School
