@@ -1,6 +1,7 @@
 ---
 layout: home
 title: AIGOV-24
+years: [2024]
 home_title: The 1st International Workshop on AI Governance (AIGOV)
 subtitle: Held in conjunction with IJCAI 2024 
 nav_title: AIGOV-24
@@ -89,20 +90,20 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
 
 # Schedule
 
-| **Time (local time)**{: .h5} | **Event**{: .h5}        | **Speaker**{: .h5} |
-| :--------------------------------- | :---------------------------- | :----------------------- |
-| 9-9:05                             | Introduction                  |                          |
-| 9:05-9:50                          | Invited Talk (40 + 5 QA)      | Dr. Djallel Bouneffouf   |
-| 9:50-10:35                         | Invited Talk (40 + 5 QA)      | Dr. Moon Choi            |
-| 10:35-11:00                        | Poster Setup + Coffee Break   |                          |
-| 11:00-12:30                        | Lightning Talks (5 + 3 QA)    | Accepted Authors         |
-| 12:30-14:00                        | Lunch Break                   |                          |
-| 14:00-14:45                        | Invited Talk (40 + 5 QA)      | Dr. Asim Munawar         |
-| 14:45-15:30                        | Invited Talk (40 + 5 QA)      | Dr. Francesca Rossi      |
-| 15:30-16:00                        | Poster Session + Coffee Break |                          |
-| 16:00-16:45                        | Invited Talk (40 + 5 QA)     | Dr. Kartik Talamadupula  |
-| 16:45-17:30                        | Invited Talk (40 + 5 QA)     | Dr. Andrew Clark         |
-| 17:30-17:35                        | Closing                       |                          |
+| **Time (local time)**{: .h5} | **Event**{: .h5}              | **Speaker**{: .h5}      |
+| :--------------------------- | :---------------------------- | :---------------------- |
+| 9-9:05                       | Introduction                  |                         |
+| 9:05-9:50                    | Invited Talk (40 + 5 QA)      | Dr. Djallel Bouneffouf  |
+| 9:50-10:35                   | Invited Talk (40 + 5 QA)      | Dr. Moon Choi           |
+| 10:35-11:00                  | Poster Setup + Coffee Break   |                         |
+| 11:00-12:30                  | Lightning Talks (5 + 3 QA)    | Accepted Authors        |
+| 12:30-14:00                  | Lunch Break                   |                         |
+| 14:00-14:45                  | Invited Talk (40 + 5 QA)      | Dr. Asim Munawar        |
+| 14:45-15:30                  | Invited Talk (40 + 5 QA)      | Dr. Francesca Rossi     |
+| 15:30-16:00                  | Poster Session + Coffee Break |                         |
+| 16:00-16:45                  | Invited Talk (40 + 5 QA)      | Dr. Kartik Talamadupula |
+| 16:45-17:30                  | Invited Talk (40 + 5 QA)      | Dr. Andrew Clark        |
+| 17:30-17:35                  | Closing                       |                         |
 
 # Accepted Papers
 
@@ -112,7 +113,7 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
 
 <!--h2 class="year">{{y}}</h2-->
 
-  {% bibliography -f papers -q @*[year=2024]* %}
+  {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
