@@ -48,7 +48,7 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 * Camera ready for accepted submissions: **December 15th, 2025**
 * Workshop program: **January 26, 2025**
 
-
+<br>
 
 # Workshop Schedule
 
@@ -60,7 +60,7 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 | 9:40–10:00                   | Spotlight Talk 3                  | Djallel Bouneffouf (IBM Research)                                                          |
 | 10:00–10:40                  | **Keynote Address**               | Prof. Simon Chesterman (NUS)                                                               |
 | 10:40–11:00                  | Poster Session I + Coffee Break   |                                                                                            |
-| 11:00–11:45                  | **Panel**: *Governance in Action* | Ati, Abhijeet, Prof. Simon Chesterman, Valarie (Moderator: Himanshu Joshi)                 |
+| 11:00–11:45                  | Panel: *Governance in Action*     | Ati, Abhijeet, Prof. Simon Chesterman, Valarie (Moderator: Himanshu Joshi)                 |
 | 11:45–12:00                  | Oral Paper 5                      | *Red-Teaming Financial AI Agents: Stress-Testing Governance Protections*                   |
 | 12:00–12:15                  | Oral Paper 6                      | *State-Wise Constrained Policy Shaping: Runtime Behavior Steering for Safe RL*             |
 | 12:15–12:30                  | Oral Paper 7                      | *With Great Capabilities Come Great Responsibilities: Agentic Risk & Capability Framework* |
@@ -80,6 +80,7 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 | 17:00–17:15                  | Oral Paper 4                      | *Behind the Words: A Comprehensive Study of Bias Detection Methods in LLMs*                |
 | 17:15–17:20                  | Closing Address                   | Himanshu Joshi & Djallel Bouneffouf                                                        |
 
+  <br>
 
 # Accepted Papers
 
@@ -88,6 +89,8 @@ All accepted papers and extended abstracts will be presented as posters. The pro
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 </div>
+  <br>
+
 
 # Confirmed Keynote and Invited Speakers
 
@@ -159,6 +162,7 @@ We also deeply appreciate the dedication and commitment to our workshop's succes
 
 Tianhao Li, Ruixiang Qi, Tianliang Yao, Zecheng Zhang, Rahul Jain, Jiacheng Lu, Saai Krishnan Udayakumar, Rishit Dholakia, Haocheng Bi, Botao Zhang, Hejun Huang, Ahmed Olabisi Olajide, Mahak Shah, Chandrashekar Konda, Zhun Zhou, Zhengyu Fang, Gaurav Mishra, Rohan Kulkarni, Prithviraj Dasgupta, Imran Nasim, Akshata Kishore Moharir, Harsh NILESH PATHAK, Zhoujie Ding, Deepak Jayabalan, Utsha Saha, Aashish Sheshadri, Yuan Tian, YI HAN, Zonghao Ying, Ziyi Wang, Jahnavi Anilkumar Kachhia, Matin Khajavi, Haohang Li, Yuanjian Xu, Akaash Vishal Hazarika, Benedikt Schesch, Yue Li, Jiajing Chen, Bum Jun Kim, Junlin Guo, Qinfeng Zhu, Ramya Sree Boppana, KE WANG, Martin Meinke, Zijian Zhang, Ye Zhang, Amit Agarwal, Moncef GAROUANI, Songlin Jiang, Madiha Shakil Mirza, Abuh Ibrahim Sani, Sai Prasanna Teja Reddy Bogireddy, Pallavi Gudipati, Xiaoxia Lei, Sai Tarun Kaniganti, Victoria Abosede Ogunsanya, Shashikanta Sahoo, Maryam Taeb, Jue Xiao, Prudhvi Nethi, Rianat Abbas, Madhulekha Arunmozhi, Bala Siva Sai Akhil Malepati, Hengyang Zhou, Kshitij Chandna, Kai Xi, Ojas Gupta, Yidi Xu, Zong Ke, Vishal Shah, Chloe Zhu, Mukesh Yadav, GUANGYAN GAN, Yu Ma, Karanbir Singh, Feng Chen, Qi Song, Zhao Xu, Junlong Aaron Zhou, Chandrasekar Ramachandran, Venkat Nilesh Dadi, Linjun He, Ruchi Sharma, Botao Zhang, Bharath Mummadisetty, Reza Zakerian, Xihao Xie, Zerui Wang.
 
+  <br>
 
 # Contact
 
